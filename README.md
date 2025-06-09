@@ -1,7 +1,7 @@
 # Heady Daniela Melo Gordillo  
 ### Desarrolladora Full Stack  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heady-daniela-melo-gordillo-381855363/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/headydaniela)  
 [![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portafolio.com)  
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heady.melo.dev@gmail.com)  
@@ -13,11 +13,14 @@
 📍 *Ubicación:* Boyacá, Colombia  
 🎓 *Formación:* Tecnóloga en Análisis y Desarrollo de Software  
 🚀 *Actualmente desarrollando:*  
-- *AutoManage Pro* – Plataforma web para gestión de talleres automotrices (React, Spring Boot, MySQL)  
+- *AutoManage * – Plataforma web para gestión de talleres automotrices (React, Spring Boot, MySQL)
+  ### 👩‍💻 Colaborador
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/esteban225) 
 
 🧠 *Aprendiendo y explorando:*  
 - OAuth2, Docker, Stripe API, Laravel  
-- Next.js, React Native, Expo, Vercel, Railway  
+- Next.js, React Native, Expo, Vercel, Railway
+- Rabbit mq
 
 ---
 
