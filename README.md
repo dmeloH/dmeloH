@@ -14,8 +14,6 @@
 🎓 *Formación:* Tecnóloga en Análisis y Desarrollo de Software  
 🚀 *Actualmente desarrollando:*  
 - *AutoManage * – Plataforma web para gestión de talleres automotrices (React, Spring Boot, MySQL)
-  ### 👩‍💻 Colaborador
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/esteban225) 
 
 🧠 *Aprendiendo y explorando:*  
 - OAuth2, Docker, Stripe API, Laravel  
