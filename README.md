@@ -59,9 +59,9 @@
 
 ## 🚀 Proyectos Destacados
 
-### 🔧 AutoManage Pro  
+### 🔧 AutoManage 
 **Plataforma web para gestión de talleres automotrices**  
-- Tecnologías: React, Spring Boot, MySQL, Docker  
+- Tecnologías: React, Angular, Spring Boot, MySQL, Docker  
 - Funcionalidades: Agenda, nómina, notificaciones, pagos con Stripe  
 
 ### 📱 Aplicación Móvil de Gestión  
@@ -76,5 +76,5 @@
 
 ---
 
-📫 **¿Te gustaría colaborar o iniciar un proyecto juntas?**  
+📫 **¿Te gustaría colaborar o iniciar un proyecto junt@s?**  
 Contáctame: [heady.melo.dev@gmail.com](mailto:heady.melo.dev@gmail.com)
