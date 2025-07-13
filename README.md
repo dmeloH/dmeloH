@@ -80,6 +80,8 @@ Echa un vistazo a mi actividad y contribuciones en GitHub. ¡Siempre estoy traba
 
 </div>
 
+---
+
 ## 🚀 Proyectos Destacados
 
 Estos son algunos de los proyectos más relevantes en los que he trabajado, mostrando mis habilidades y experiencia práctica:
@@ -87,14 +89,16 @@ Estos son algunos de los proyectos más relevantes en los que he trabajado, most
 ### 🔧 AutoManage Pro 🚗
 **Plataforma web integral para la gestión de talleres automotrices**
 Este proyecto es una solución completa diseñada para optimizar las operaciones de talleres, desde la agenda de citas hasta la gestión de nómina y pagos.
--   **Tecnologías Clave:** **React** (para una interfaz de usuario dinámica), **Angular** (otra opción robusta para el frontend), **Spring Boot** (backend sólido y escalable), **MySQL** (base de datos relacional para la gestión de datos), **Docker** (para entornos de desarrollo y despliegue consistentes).
--   **Funcionalidades Destacadas:** Sistema de agenda y citas, gestión de nómina y empleados, notificaciones automatizadas, e integración de pasarela de pagos con **Stripe**.
+- **Tecnologías Clave:** **React** (para una interfaz de usuario dinámica), **Angular** (otra opción robusta para el frontend), **Spring Boot** (backend sólido y escalable), **MySQL** (base de datos relacional para la gestión de datos), **Docker** (para entornos de desarrollo y despliegue consistentes).
+- **Funcionalidades Destacadas:** Sistema de agenda y citas, gestión de nómina y empleados, notificaciones automatizadas, e integración de pasarela de pagos con **Stripe**.
+
+---
 
 ### 📱 Aplicación Móvil de Gestión 📈
 **Aplicación móvil en desarrollo para la administración de tareas y recursos**
 Una aplicación en progreso que busca simplificar la gestión de tareas y recursos, ofreciendo una experiencia de usuario fluida y accesible desde cualquier dispositivo móvil.
--   **Tecnologías Clave:** **React Native** (para desarrollo móvil multiplataforma eficiente), **Expo** (facilita el desarrollo y despliegue), **Node.js** (backend flexible y de alto rendimiento).
--   **Estado:** Actualmente en desarrollo activo, con nuevas funcionalidades siendo implementadas continuamente.
+- **Tecnologías Clave:** **React Native** (para desarrollo móvil multiplataforma eficiente), **Expo** (facilita el desarrollo y despliegue), **Node.js** (backend flexible y de alto rendimiento).
+- **Estado:** Actualmente en desarrollo activo, con nuevas funcionalidades siendo implementadas continuamente.
 
 ---
 
