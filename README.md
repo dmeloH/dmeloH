@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
+</div>
+
 # **Heady Daniela Melo Gordillo** 👩‍💻
 ### 🚀 Desarrolladora Full Stack | Especialista en Soluciones Web & Mobile
 
@@ -9,32 +13,38 @@
 ---
 
 ## 🙋‍♀️ Sobre Mí
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-Soy **Tecnóloga en Análisis y Desarrollo de Software** 🎓, originaria de Boyacá, Colombia. Mi pasión radica en la creación de **soluciones Full Stack** que no solo sean robustas y escalables, sino también intuitivas y eficientes. Me especializo en el desarrollo tanto del **frontend** como del **backend**, disfrutando el reto de construir experiencias de usuario excepcionales y arquitecturas de sistema sólidas.
 
-Actualmente, estoy contribuyendo activamente en el desarrollo de **AutoManage Pro** 🚗, una plataforma web integral diseñada para la gestión de talleres automotrices, utilizando **React**, **Spring Boot** y **MySQL**.
+```ts
+class Daniela {
+  user: string = 'Daniela Melo ';
+  current_country: string = 'Colombia 🇨🇴';
+  current_role: string = 'Full Stack Developer';
+  currently_learning: string[] = ['Nuevas tegnologias'];
+  hobbies: string[] = ['Viajar ✈️', 'Codear por aprendizaje 💻', 'Películas 🎬'];
 
-Siempre estoy en la vanguardia, explorando y adoptando nuevas herramientas y tecnologías para mantenerme actualizada y expandir mis capacidades:
+  getCity(): string {
+    return 'Boyacá';
+  }
 
--   **Seguridad y Autenticación:** OAuth2, JWT
--   **Integraciones:** Stripe API, Consumo y Diseño de APIs RESTful
--   **Contenerización y Orquestación:** Docker, Kubernetes
--   **Frameworks Backend:** Laravel (PHP), Express.js (Node.js)
--   **Frameworks Frontend Avanzados:** Next.js (con SSR/SSG)
--   **Desarrollo Móvil Multiplataforma:** React Native, Expo
--   **Despliegue y CI/CD:** Vercel, Railway, Netlify, Jenkins
--   **Bases de Datos NoSQL:** MongoDB, PostgreSQL
--   **Mensajería y Colas:** RabbitMQ, Kafka
--   **Pruebas:** JUnit, Jest
--   **Control de Versiones:** Git, GitHub Actions
-
+  ambitions(): string[] {
+    return ['Ser Arquitecta de Software', 'Contribuir a proyectos de impacto global'];
+  }
+}
+```
 > 🤝 **Colaboración:** En este viaje no estoy solo, siempre dispuesto a colaborar y aprender en equipo. Actualmente, trabajo de cerca con mi talentoso compañero [@esteban225](https://github.com/esteban225).
+
+
 
 ---
 
 ## 🛠 Stack Tecnológico
 
-Aquí te presento las tecnologías con las que trabajo y me siento cómoda creando soluciones innovadoras:
+Aquí te presento las tecnologías con las que estoy aprendiendo y me siento cómoda creando soluciones innovadoras:
 
 ### 🌟 Frontend & Mobile
 | | | | | |
@@ -65,7 +75,8 @@ Echa un vistazo a mi actividad y contribuciones en GitHub. ¡Siempre estoy traba
 |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmeloH&theme=tokyonight) |
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+![Daniela Graph](https://github-readme-activity-graph.vercel.app/graph?username=dmeloH&custom_title=Daniela%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 
 </div>
 
