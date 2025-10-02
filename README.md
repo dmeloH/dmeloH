@@ -36,7 +36,7 @@ class Daniela {
   }
 }
 ```
-> 🤝 **Colaboración:** En este viaje no estoy solo, siempre dispuesto a colaborar y aprender en equipo. Actualmente, trabajo de cerca con mi talentoso compañero [@esteban225](https://github.com/esteban225).
+> 🤝 **Colaboración:** En este viaje no estoy sola, siempre dispuesta a colaborar y aprender en equipo. Actualmente, trabajo de cerca con mi compañero [@esteban225](https://github.com/esteban225).
 
 
 
